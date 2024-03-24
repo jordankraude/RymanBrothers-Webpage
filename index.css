@@ -81,10 +81,11 @@ p {
 }
 
 #topPhoto {
-    width: 100%;
+    width: 50%;
+    height: auto;
     position: relative;
     top: -100px;
-    margin-left: 100px;
+    margin-left: 25%;
 }
 
 #contactHeader {
@@ -273,10 +274,8 @@ footer p {
     #groupName {font-size: 70px;}
 
     #topPhoto {
-      width: 100%;
       position: relative;
       top: -70px;
-      margin-left: 100px;
   }
 
   nav ul a{
